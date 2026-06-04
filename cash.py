@@ -1,2 +1,0 @@
-print("kaif")
-print("kadju")
